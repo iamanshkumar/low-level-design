@@ -1,0 +1,11 @@
+# Compiled Java class files
+*.class
+
+# Excluded folders as requested
+documentEditor/bad-design/
+
+# Local configuration files
+.env
+
+# OS-specific files
+.DS_Store
