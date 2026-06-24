@@ -1,0 +1,3 @@
+interface Burger{
+    void prepare();
+}

@@ -1,0 +1,4 @@
+interface GarlicBread {
+    void prepare();
+}
+
